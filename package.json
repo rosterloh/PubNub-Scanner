@@ -1,0 +1,25 @@
+{
+  "name": "PubSub-Scanner",
+  "version": "1.0.0",
+  "description": "Node application to test PubSub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rosterloh/PubSub-Scanner.git"
+  },
+  "author": "Richard Osterloh <richard.osterloh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rosterloh/PubSub-Scanner/issues"
+  },
+  "homepage": "https://github.com/rosterloh/PubSub-Scanner",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "commander": "^2.6.0",
+    "pubnub": "^3.7.8",
+    "readline": "0.0.7"
+  }
+}
